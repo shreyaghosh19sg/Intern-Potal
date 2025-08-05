@@ -1,0 +1,59 @@
+{
+  "intern": {
+    "name": "Shreya Ghosh",
+    "referralCode": "shreya2025",
+    "donationsRaised": 2000
+    "tasksCompleted" : 10
+  },
+  "leaderboard": [
+    {
+      "name": "Tiya Bose",
+      "referralCode": "tina2025",
+      "donationsRaised": 2400
+      "tasksCompleted" : 8
+    },
+  {
+    "name": "Shreya Ghosh",
+       "referralCode": "shreya2025",
+       "donationsRaised": 2000
+       "tasksCompleted" : 10
+  },
+  {
+      "name": "Suman Bera",
+      "referralCode": "suman2025",
+      "donationsRaised": 1900
+      "tasksCompleted" : 9
+    },
+  {
+    "name": "Pihu Das",
+      "referralCode": "pihu2025",
+      "donationsRaised": 1750
+      "tasksCompleted" : 7
+  },
+    {
+      "name": "Sohini Dey",
+      "referralCode": "sohini2025",
+      "donationsRaised": 1500
+      "tasksCompleted" : 6
+    },
+    {
+      "name": "Ram Das",
+      "referralCode": "ram2025",
+      "donationsRaised": 1250
+      "tasksCompleted" : 8
+    },
+    {
+      "name": "Raha Singh",
+      "referralCode": "raha2025",
+      "donationsRaised": 1000
+      "tasksCompleted" : 9
+    },
+    
+    {
+      "name": "Sini De",
+      "referralCode": "sini2025",
+      "donationsRaised": 800
+      "tasksCompleted" : 7
+    }
+  ]
+}
